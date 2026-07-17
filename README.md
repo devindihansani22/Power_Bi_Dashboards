@@ -11,7 +11,6 @@ Explore the dashboard below. Each has its own dedicated README with more details
 ![Data Jobs Dashboard](images\Project_1_page_1.png)
 
 
-
 **Key Power BI Skills Utilized:**
 * 🎨 Dashboard Layout & Design
 * ⚙️ Power Query (ETL & Data Shaping)
